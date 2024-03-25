@@ -1,0 +1,19 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: '1.3.0'
+
+accounts:
+  message: "Welcome to Easy Bank Accounts related API's"
+  contactDetails:
+    name: Naveen - Prod Support Manager"
+    email: naveen.gaddam@cirium.com"
+  onCallSupport:
+    - (+91) 73067 11886
+    - (+91) 93905 84040
+
+
+

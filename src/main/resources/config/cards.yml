@@ -1,0 +1,14 @@
+build:
+  version: "1.0.0"
+
+cards:
+  message: "Welcome to Easy Bank Cards related API's"
+  contactDetails:
+    name: Saikumar Gaddam - Developer"
+    email: saikumar.gaddam@cirium.com"
+  onCallSupport:
+    - (+91) 73067 11886
+    - (+91) 93905 84040
+
+
+

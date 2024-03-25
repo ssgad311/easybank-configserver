@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: '3.0'
+
+cards:
+  message: "Welcome to Easy Bank Accounts related API's"
+  contactDetails:
+    name: Sita Gaddam - QA Lead"
+    email: sita.gaddam@cirium.com"
+  onCallSupport:
+    - (+91) 73067 11886
+    - (+91) 93905 84040
+

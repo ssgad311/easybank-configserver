@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "dev"
+
+build:
+  version: '1.1.0'
+
+accounts:
+  message: "Welcome to Easy Bank Accounts related API's"
+  contactDetails:
+    name: Saikumar Gaddam - Developer"
+    email: saikumar.gaddam@cirium.com"
+  onCallSupport:
+    - (+91) 73067 11886
+    - (+91) 93905 84040
+
